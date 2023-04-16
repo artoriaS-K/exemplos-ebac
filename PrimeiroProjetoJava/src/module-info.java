@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author artorias
+ *
+ */
+module PrimeiroProjetoJava {
+}
